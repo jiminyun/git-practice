@@ -1,0 +1,3 @@
+what? myFile.txt has gone, which was created in dev branch! 
+I dont know what's goin on!
+Anyway let'see 
